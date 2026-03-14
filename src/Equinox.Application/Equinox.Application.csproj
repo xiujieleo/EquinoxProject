@@ -7,6 +7,6 @@
 		<ProjectReference Include="..\Equinox.Infra.Data\Equinox.Infra.Data.csproj"/>
 	</ItemGroup>
 	<ItemGroup>
-		<PackageReference Include="AutoMapper" Version="11.0.1"/>
+		<PackageReference Include="AutoMapper" Version="16.1.1"/>
 	</ItemGroup>
 </Project>
